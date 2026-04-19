@@ -4,7 +4,7 @@
 
 Me chamo Pedro Henrique Lopes, tenho 20 anos e sou estudante de Sistemas de Informação. Atualmente, atuo como estagiário na área de Business Intelligence, onde desenvolvo habilidades em análise de dados e visualização de informações.
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar 
 <p align="left">
   <a href="https://github.com/PedrLopezs">
     <img src="https://img.shields.io/badge/GitHub-PedrLopezs-181717?style=for-the-badge&logo=github" />
